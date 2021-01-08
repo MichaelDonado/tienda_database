@@ -1,6 +1,6 @@
-# **tiendecita_database**
+# **Tiendecita Database**
 _Note: It is a learning project._
-Database inspired by a little shop in my neighborhood, called "Niño Jesús".
+
 
 
 
@@ -9,3 +9,4 @@ Database inspired by a little shop in my neighborhood, called "Niño Jesús".
 
 
 [1]: https://i.pinimg.com/originals/46/70/33/4670330546f0d001146aa3af959aa238.jpg
+_Database inspired by a little shop in my neighborhood, called "Niño Jesús"._
