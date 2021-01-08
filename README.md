@@ -1,5 +1,4 @@
 # **Tiendecita Database**
-_Note: It is a learning project._
 
 
 
